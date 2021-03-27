@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/tardigrade/filecoin/filecoin_loans_test/filecoin-signing-tools/target/wasm32-unknown-unknown/release/build/typenum-68bc98d1298a91c4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/tardigrade/filecoin/filecoin_loans_test/filecoin-signing-tools/target/wasm32-unknown-unknown/release/build/typenum-68bc98d1298a91c4/out/op.rs

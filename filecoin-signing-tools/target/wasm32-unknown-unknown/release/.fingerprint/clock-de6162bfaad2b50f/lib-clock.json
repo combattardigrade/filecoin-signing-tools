@@ -1,0 +1,1 @@
+{"rustc":6339714466149818003,"features":"[]","target":1590842909486049847,"profile":10272630476087616469,"path":4649123283431311379,"deps":[[8146038286185888119,"chrono",false,17142618896483487457]],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/clock-de6162bfaad2b50f/dep-lib-clock"}}],"rustflags":[],"metadata":9430166864602356384,"config":0}
